@@ -2,7 +2,7 @@
 
 backend:
 	name: github
-	repo: username/repo-name
+	repo: theapplegates/amster-tryagain
 media_folder: static/media
 public_folder: /media
 collections:
